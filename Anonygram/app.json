@@ -5,7 +5,8 @@
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node",
               "express",
-              "static"], 
+              "static"
+], 
 
   "repository": "https://github.com/anonyindian/Anonygram"
   "Website": 
