@@ -1,7 +1,17 @@
 {
   "name": "Anonygram",
   "description": "A Forward Bot",
-  "repository": "https://github.com/heroku/node-js-getting-started",
+  "repository": "https://github.com/anonyindian/Anonygram/"
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static"]
-}
+  "keywords": ["node",
+              "express",
+              "static"], 
+
+  "repository": "https://github.com/anonyindian/Anonygram"
+  "Website": 
+  "Sucessurl":
+   "env":{
+    "ENV": { 
+      "description": " Setting This To Anything Will Enable Heroku "
+      "value": " Anything "
+   
