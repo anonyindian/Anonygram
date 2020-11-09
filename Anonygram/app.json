@@ -1,14 +1,14 @@
 {
   "name": "Anonygram",
   "description": "A Forward Bot",
-  "repository": "https://github.com/anonyindian/Anonygram/"
+  "repository": "https://github.com/anonyindian/Anonygram/blob/main/Anonygram/"
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node",
               "express",
               "static"
 ], 
 
-  "repository": "https://github.com/anonyindian/Anonygram"
+  "repository": "https://github.com/anonyindian/Anonygram/blob/main/Anonygram/"
   "Website": 
   "Sucessurl": "https://github.com/anonyindian/Anonygram/blob/main/Anonygram/"
    "env":{
