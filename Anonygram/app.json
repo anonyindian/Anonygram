@@ -10,7 +10,7 @@
 
   "repository": "https://github.com/anonyindian/Anonygram"
   "Website": 
-  "Sucessurl":
+  "Sucessurl": "https://github.com/anonyindian/Anonygram/blob/main/Anonygram/"
    "env":{
     "ENV": { 
       "description": " Setting This To Anything Will Enable Heroku "
